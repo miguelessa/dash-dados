@@ -8,4 +8,4 @@ O código é escrito em Python com as bibliotecas Pandas, Streamlit e Plotly.exp
 Também anexei um vídeo de como fica o código executado na localhost.
 
 
-Link do vídeo - https://www.youtube.com/watch?v=P6E_Kts9pxE
+Link do vídeo (Asimov) - https://www.youtube.com/watch?v=P6E_Kts9pxE
